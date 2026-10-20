@@ -1,4 +1,7 @@
 [package]
-name = "packages"
+name = "packagessss"
 version = "0.1.0"
 edition = "2021"
+
+[dependencies]
+packages = { path = "src/packages" }
